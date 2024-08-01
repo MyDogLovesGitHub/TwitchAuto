@@ -1,12 +1,12 @@
 # TwitchAuto
 Automate Line Holding
 
-Installation:
+Installation:<br>
 1 - Download these files to any folder.<br>
 2 - If you don't have python installed, go to microsoft store and search python 3.9, then download it.<br>
-3 - Open the start menu and search for command prompt, open that and paste "pip install pyautogui"<br>
+3 - Open the start menu and search for command prompt, open that and paste "pip install pyautogui"
 
-Usage:
+Usage:<br>
 1 - In order to run the script, go to where main.py was downloaded, right click it, go to open with, and click on open with python 3.9<br>
 2 - A 5 second countdown will start, before it ends, go to twitch and click on the "Send a message" bar<br>
 3 - Done
