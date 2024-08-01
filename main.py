@@ -26,7 +26,7 @@ def Main() -> None:
         pyautogui.write(messages[messageIndex])
         pyautogui.press('enter')
 
-        messageIndex = (messageIndex+1) if messageIndex<len(messages) else 0
+        messageIndex = (messageIndex+1) if messageIndex<(len(messages)+1) else 0
         sleep(delay)
 
 Countdown()
