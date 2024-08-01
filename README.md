@@ -14,3 +14,6 @@ Usage:<br>
 Customization:
 In order to customize the messages, go to main.py and put your messages in the variable called messages, the bot will cycle through each line. (There is no limit on the amount of messages)<br>
 If your internet is slower then open main.py and increase the estimatedPing to match your internet speed.
+
+Stopping:<br>
+If you want to stop the script, just move your mouse all the way to the top right corner.
