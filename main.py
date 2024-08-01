@@ -1,13 +1,14 @@
-import pyautogui, random
+import pyautogui
 from time import sleep
 
 # INCREATE ESTIMATED PING IF YOUR INTERNET IS SLOW
 estimatedPing = 30 # Estimated ping (Just in case of lag)
 delay = 5+(estimatedPing/1000) # Delay between messages (5+a bit bc of slow mode)
 
-with open('messages.txt', 'r') as f:
-    messages = [n.strip() for n in f.readlines()]
-
+messages = [
+    'HOLD THE LINE!',
+    'HOLD!',
+]
 
 def Countdown() -> None:
     # Gives you 5 seconds to switch to twitch and click on the "Send a message" bar
@@ -31,4 +32,3 @@ def Main() -> None:
 Countdown()
 Main()
 input('Script Finished (press enter to close)')
-
