@@ -12,5 +12,5 @@ Usage:<br>
 3 - Done
 
 Customization:
-In order to customize the messages, go to messages.txt and put your messages in there, the bot will cycle through each line. (There is no limit on the amount of messages)<br>
+In order to customize the messages, go to main.py and put your messages in the variable called messages, the bot will cycle through each line. (There is no limit on the amount of messages)<br>
 If your internet is slower then open main.py and increase the estimatedPing to match your internet speed.
