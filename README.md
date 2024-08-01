@@ -2,7 +2,7 @@
 Automate Line Holding
 
 Installation:<br>
-1 - Download these files to any folder.<br>
+1 - Download the files. (do this by going to releases)<br>
 2 - If you don't have python installed, go to microsoft store and search python 3.9, then download it.<br>
 3 - Open the start menu and search for command prompt, open that and paste "pip install pyautogui"
 
