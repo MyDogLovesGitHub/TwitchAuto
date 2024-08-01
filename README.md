@@ -9,5 +9,5 @@ Installation:
 Usage:
 In order to run the script, go to where main.py was downloaded, right click it, go to open with, and click on open with python 3.9
 
-In order to customize the messages, go to messages.txt and put your messages in there, the bot will cycle through each line.
+In order to customize the messages, go to messages.txt and put your messages in there, the bot will cycle through each line. (There is no limit on the amount of messages)
 If your internet is slower then open main.py and increase the estimatedPing to match your internet speed.
